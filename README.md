@@ -43,7 +43,7 @@ You will need:
 
 Select the root directory that contains the *.json file
 
-Converted data are stored in **_fifData\epochs\** folder
+Converted data are stored in *_fifData\epochs\* folder
 
 
 ### Analysis for one dataset - SingleAnalysis.py
@@ -56,5 +56,28 @@ Compare Target and Non Target Responses
 ### Analysis on subject level - SubjectAnalysis.py
 
 
-Select 2 **Target-epo.fif* files to compare 2 EEG systems
+Select 2 **Target-epo.fif* files to compare 2 EEG systems (ex : S1 and S2)
+ 
+Compare Target and Non Target Responses for each system
+
+Compare systems on Target Responses
+
+Compare systems on  Non Target Responses
+
+Store evoked repsonses in *_fifData\evokeds\* folder
+
+
+
+
+
+### Analysis on group level - GroupAnalysis.py
+
+Analysis all data stored in *_fifData\evokeds\* folder
+
+Compare Target and Non Target Responses for each system
+
+Compare systems on Target Responses
+
+Compare systems on  Non Target Responses
+
 

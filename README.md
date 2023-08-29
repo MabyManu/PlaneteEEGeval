@@ -2,11 +2,19 @@
 
 Python Scripts to convert and analyze EEG data in aim to compare 3 EEG systems : 
 
-![LiveAmp](https://www.brainproducts.com/wp-content/uploads/2021/01/PDP_LiveAmp32-400x400.jpg)(https://www.brainproducts.com/solutions/liveamp/)
+LIVEAMP :
 
-![Epoch Flex] (https://cdn-bhgin.nitrocdn.com/fYiCbyekuWxdwsIavStGyhFBtSFZmwkM/assets/images/optimized/rev-bf60e52/d2z0k1elb7rxgj.cloudfront.net/uploads/2021/09/EpocFlex-product-header.png)(https://www.emotiv.com/epoc-flex/)
+[![LiveAmp](https://www.brainproducts.com/wp-content/uploads/2021/01/PDP_LiveAmp32-400x400.jpg)](https://www.brainproducts.com/solutions/liveamp/)
 
-![BrainAmp] (https://www.brainproducts.com/wp-content/uploads/2021/02/PDP_BrainAmp-PowerPack-BUA-1000-400x400.jpg)(https://www.brainproducts.com/solutions/brainamp/)
+
+EPOCH FLEX : 
+
+[![Epoch Flex] (https://cdn-bhgin.nitrocdn.com/fYiCbyekuWxdwsIavStGyhFBtSFZmwkM/assets/images/optimized/rev-bf60e52/d2z0k1elb7rxgj.cloudfront.net/uploads/2021/09/EpocFlex-product-header.png)](https://www.emotiv.com/epoc-flex/)
+
+
+BRAINAMP : 
+
+[![BrainAmp] (https://www.brainproducts.com/wp-content/uploads/2021/02/PDP_BrainAmp-PowerPack-BUA-1000-400x400.jpg)](https://www.brainproducts.com/solutions/brainamp/)
 
 
 ## Instructions
@@ -29,23 +37,23 @@ You will need:
 
 ## Scripts
 
-### Convert json Files in mne *.fif files - _(ConvertJSONFiles.py)
+### Convert json Files in mne *.fif files - ConvertJSONFiles.py
 
 
 Select the root directory that contains the *.json file
 
-Converted data are stored in \_fifData\epochs\ folder
+Converted data are stored in _(\_fifData\epochs\) folder
 
 
-### Analysis for one dataset - _(SingleAnalysis.py)
+### Analysis for one dataset - SingleAnalysis.py
 
 
-Select a *Target-epo.fif file
+Select a _(*Target-epo.fif) file
 Compare Target and Non Target Responses
 
 
-### Analysis on subject level - _(SubjectAnalysis.py)
+### Analysis on subject level - SubjectAnalysis.py
 
 
-Select 2 *Target-epo.fif files to compare 2 EEG systems
+Select 2 _(*Target-epo.fif) files to compare 2 EEG systems
 

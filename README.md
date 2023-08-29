@@ -43,7 +43,7 @@ You will need:
 
 Select the root directory that contains the *.json file
 
-Converted data are stored in *_fifData\epochs\* folder
+Converted data are stored in **_fifData\epochs\** folder
 
 
 ### Analysis for one dataset - SingleAnalysis.py

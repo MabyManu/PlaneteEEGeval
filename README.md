@@ -49,12 +49,12 @@ Converted data are stored in *\_fifData\epochs\* folder
 ### Analysis for one dataset - SingleAnalysis.py
 
 
-Select a * *Target-epo.fif * file
+Select a **Target-epo.fif* file
 Compare Target and Non Target Responses
 
 
 ### Analysis on subject level - SubjectAnalysis.py
 
 
-Select 2 * *Target-epo.fif * files to compare 2 EEG systems
+Select 2 **Target-epo.fif* files to compare 2 EEG systems
 

@@ -41,6 +41,11 @@ NoTargetFilename = TargetFilename[0:TargetFilename.find("-Target-epo.fif")] + "-
 Epochs_NoTarget=mne.read_epochs(NoTargetFilename)
 Epochs_Target=mne.read_epochs(TargetFilename)
 
+Epochs_NoTarget.pick(mne.pick_types(Epochs_NoTarget.info, meg=False, eeg=True,misc=False))
+Epochs_Target.pick(mne.pick_types(Epochs_NoTarget.info, meg=False, eeg=True,misc=False))
+
+
+
 ThresholdPeak2peak,_,_,ixEpochs2Remove,_ = mne_tools.RejectThresh(Epochs_NoTarget,int(rejection_rate*100))
 Epochs_NoTarget.drop(ixEpochs2Remove,verbose=False)			
 

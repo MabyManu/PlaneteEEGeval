@@ -9,12 +9,12 @@ LIVEAMP :
 
 EPOCH FLEX : 
 
-[![Epoch Flex] (https://cdn-bhgin.nitrocdn.com/fYiCbyekuWxdwsIavStGyhFBtSFZmwkM/assets/images/optimized/rev-bf60e52/d2z0k1elb7rxgj.cloudfront.net/uploads/2021/09/EpocFlex-product-header.png)](https://www.emotiv.com/epoc-flex/)
+[![Epoch Flex](https://cdn-bhgin.nitrocdn.com/fYiCbyekuWxdwsIavStGyhFBtSFZmwkM/assets/images/optimized/rev-bf60e52/d2z0k1elb7rxgj.cloudfront.net/uploads/2021/09/EpocFlex-product-header.png)](https://www.emotiv.com/epoc-flex/)
 
 
 BRAINAMP : 
 
-[![BrainAmp] (https://www.brainproducts.com/wp-content/uploads/2021/02/PDP_BrainAmp-PowerPack-BUA-1000-400x400.jpg)](https://www.brainproducts.com/solutions/brainamp/)
+[![BrainAmp](https://www.brainproducts.com/wp-content/uploads/2021/02/PDP_BrainAmp-PowerPack-BUA-1000-400x400.jpg)](https://www.brainproducts.com/solutions/brainamp/)
 
 
 ## Instructions

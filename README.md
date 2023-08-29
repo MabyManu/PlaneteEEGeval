@@ -23,6 +23,7 @@ BRAINAMP :
 - Clone or download this folder
 
 - Clone the repo PyABA : Python developer tools for the Analysis of Brain Activity
+
 `` https://github.com/MabyManu/PyABA.git ``
 
 - Change Path in AddPyABA_Path.py
@@ -42,18 +43,18 @@ You will need:
 
 Select the root directory that contains the *.json file
 
-Converted data are stored in _(\_fifData\epochs\) folder
+Converted data are stored in *\_fifData\epochs\* folder
 
 
 ### Analysis for one dataset - SingleAnalysis.py
 
 
-Select a _(*Target-epo.fif) file
+Select a * *Target-epo.fif * file
 Compare Target and Non Target Responses
 
 
 ### Analysis on subject level - SubjectAnalysis.py
 
 
-Select 2 _(*Target-epo.fif) files to compare 2 EEG systems
+Select 2 * *Target-epo.fif * files to compare 2 EEG systems
 
